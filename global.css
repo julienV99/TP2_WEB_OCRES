@@ -18,9 +18,17 @@ a {
     text-decoration: none;
 }
 
+.center {
+    padding: 25px 0;
+}
+
 .wrapper {
     padding: 25px 0;
 }
+
+
+
+
 
 body > header {
     margin-bottom: 20px;
@@ -133,7 +141,7 @@ header form {
 }
 
 input.search {
-    background: url("../img/icon/search.png") #ebeff1 no-repeat 8px;
+    background: url("search.png") #ebeff1 no-repeat 8px;
     box-shadow: none;
     height: 28px;
     width: 100%;
